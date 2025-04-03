@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanSlayer23
+- 👋 Hi, sou @DanSlayer23
 - 👀 I’m interested in Python...
 - 🌱 Tentar aprender HTML, CSS, JAVA 
 - 💞 alone
